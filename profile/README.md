@@ -15,21 +15,33 @@ We focus on **practical, question-based readings** for love, decisions, and timi
 | Idioma / Language | Use Case | Link |
 |-------------------|----------|------|
 | 🇪🇸 Español | Tarot con IA gratis | [tarot-ia-gratis](https://tarotool.com/tarot-ia-gratis) |
+| 🇪🇸 Español | Tarot online gratis | [tarot-online-gratis](https://tarotool.com/tarot-online-gratis) |
 | 🇪🇸 Español | Tarot del amor | [tarot-amor-gratis](https://tarotool.com/tarot-amor-gratis) |
 | 🇪🇸 Español | Tarot diario | [tarot-diario](https://tarotool.com/tarot-diario) |
 | 🇪🇸 Español | Sí o No | [tarot-si-o-no](https://tarotool.com/tarot-si-o-no) |
-| 🇪🇸 Español | Sin registro | [tarot-gratis-sin-registro](https://tarotool.com/tarot-gratis-sin-registro) |
+| 🇪🇸 Español | Sin registro (chat) | [chatgpt-tarot-gratis-sin-registro](https://tarotool.com/chatgpt-tarot-gratis-sin-registro) |
+| 🇪🇸 Español | Sin registro (simple) | [tarot-gratis-sin-registro](https://tarotool.com/tarot-gratis-sin-registro) |
+| 🇪🇸 Español | Trabajo | [tarot-trabajo-gratis](https://tarotool.com/tarot-trabajo-gratis) |
+| 🇪🇸 Español | Dinero | [tarot-dinero-gratis](https://tarotool.com/tarot-dinero-gratis) |
 | 🇺🇸 English | ChatGPT-style free tarot | [chatgpt-tarot-free](https://tarotool.com/en/chatgpt-tarot-free) |
 
 ## 📚 Open Resources
 
 Public knowledge base for tarot learners and AI tarot users:
 
+### English-focused
+
 - 🃏 [free-tarot-reading-online](https://github.com/tarotool-ai/free-tarot-reading-online) — Complete guide to free online tarot
 - 🤖 [ai-tarot-card-reading](https://github.com/tarotool-ai/ai-tarot-card-reading) — How AI interprets tarot cards
 - 💕 [tarot-love-reading](https://github.com/tarotool-ai/tarot-love-reading) — Love & relationship tarot spreads
 - 📖 [daily-tarot-card-meaning](https://github.com/tarotool-ai/daily-tarot-card-meaning) — All 78 cards explained
 - 🔮 [tarot-spread-guide](https://github.com/tarotool-ai/tarot-spread-guide) — Celtic Cross, 3-card, and more
+
+### Spanish-focused (Tarot en Español)
+
+- 🔮 [tarot-ia-gratis](https://github.com/tarotool-ai/tarot-ia-gratis) — Tarot con IA gratis sin registro
+- 🌐 [tarot-online-gratis](https://github.com/tarotool-ai/tarot-online-gratis) — Lectura de cartas online sin pagar
+- 💬 [chatgpt-tarot-gratis-sin-registro](https://github.com/tarotool-ai/chatgpt-tarot-gratis-sin-registro) — Tarot conversacional estilo ChatGPT
 
 ## ✨ What Makes Tarotool Different
 
